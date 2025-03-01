@@ -1,0 +1,34 @@
+body {
+    font-family: 'Noto Sans Arabic', sans-serif;
+    direction: rtl;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: right;
+}
+
+.container {
+    direction: rtl;
+}
+
+.header{
+    font-size: 2.5rem;
+    text-align: center;
+    background-color: #e7e7e7;
+    padding: 15px 0;
+    border-bottom: 1px solid #c5c5c5;
+}
